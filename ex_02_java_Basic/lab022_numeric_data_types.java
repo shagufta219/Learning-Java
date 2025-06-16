@@ -9,6 +9,6 @@ public class lab022_numeric_data_types {
         short s=90;
         char c='a';
         long l=2490395433l;
-        long l1=430930343L
+        long l1=430930343L;
     }
 }

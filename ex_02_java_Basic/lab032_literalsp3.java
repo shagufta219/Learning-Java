@@ -14,7 +14,7 @@ public class lab032_literalsp3 {
         int octal =0101;
 
         //hexadecimal Literal -16
-        int hex = oXface;
+       // int hex = oXface;
         //base 16 color combination are in hex-#28a745
 
     }

@@ -1,6 +1,6 @@
 package ex_02_java_Basic;
 
-public class Variables {
+class variable_java {
     public static void main(String[] args) {
         /*```
         data_type variable_name = variable_value
